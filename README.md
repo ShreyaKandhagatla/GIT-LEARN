@@ -1,10 +1,11 @@
 # GIT-LEARN
-SOME OF TEH IMPORTANT COMMANDS AND ITS PURPOSE
+  SOME OF THE IMPORTANT COMMANDS AND ITS PURPOSES
+=====================================================================================
 
 <h1>1.git init</h1>
   Used when we wanted to initialize a new local Git repository
 <h1>2.git clone "repo-url" </h1>
-  Used when we wanted to create a copy of a remote repository to your local machine
+  Used when we wanted to create a copy of a remote repository to your local machine<br>
   When we want to work on a existing project from Github
 <h1>3.git status</h1>
   Will show changes (staged, unstaged, untracked)<br>
@@ -23,15 +24,16 @@ SOME OF TEH IMPORTANT COMMANDS AND ITS PURPOSE
   When we want to share our changes with others
 <h1>8.git log</h1>
    To view commit history and also to see the previous commits and messages
-<h1>9.git branch ----> used to List branches</h1>
-  <h2>git branch new-feature ------> used to Create new branch</h2>
-  </h2>git branch -d branch1 ------->used to Delete branch</h2>
-<h1>10.git checkout branch1 ----> used to switch between branches</h1>
-  <h2>git checkout -b new-branch ------> used to perform both Create + switch in a single command</h2>
+<h1>9.git branch </h1>used to List branches
+  <h2>git branch new-feature</h2>used to Create new branch<br>
+  <h2>git branch -d branch1</h2>used to Delete branch
+<h1>10.git checkout branch1 </h1>
+  used to switch between branches
+  <h2>git checkout -b new-branch</h2>used to perform both Create + switch in a single command
 <h1>11.git merge feature-branch</h1>
   To Merge changes from one branch into another.<br>
   Use when: You finish a feature and want to combine it into main/master.
-<h1>12.git stash-----> To temporarily save uncommitted files</h1>
-  git stash apply----->A copy will be in the virtual even after committing<br>
-  git stash pop-------->Deleted the copy thast saved temporarily
+<h1>12.git stash</h1>To temporarily save uncommitted files<br>
+  <h2>git stash apply</h2>A copy will be in the virtual even after committing<br>
+  <h2>git stash pop</h2>Deleted the copy thast saved temporarily
 
