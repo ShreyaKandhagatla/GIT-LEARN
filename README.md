@@ -35,5 +35,5 @@
   Use when: You finish a feature and want to combine it into main/master.
 <h1>12.git stash</h1>To temporarily save uncommitted files<br>
   <h2>git stash apply</h2>A copy will be in the virtual even after committing<br>
-  <h2>git stash pop</h2>Deleted the copy thast saved temporarily
+  <h2>git stash pop</h2>Deleted the copy that's saved temporarily
 
